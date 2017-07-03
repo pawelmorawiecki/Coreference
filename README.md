@@ -1,2 +1,2 @@
 # Coreference
-Coreference resolution for Polish based on neural network 
+Coreference resolution for Polish, the model based on neural network 
